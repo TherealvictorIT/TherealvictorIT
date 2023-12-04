@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Honeynet Lab</b>
+  - [Azure Sentinel Honeynet Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
   - 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TherealvictorIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
@@ -17,7 +18,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Victor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
