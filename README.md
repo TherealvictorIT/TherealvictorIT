@@ -4,7 +4,8 @@
 
 - <b>Azure Honeynet Lab</b>
   - [Azure Sentinel Honeynet Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
-  - 
+  - [Azure Sentinel Incident Response Lab](https://github.com/TherealvictorIT/Azure-Sentinel-Incident-Response-Lab/tree/main)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TherealvictorIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TherealvictorIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
