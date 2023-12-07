@@ -5,6 +5,7 @@
 - <b>Azure Honeynet Lab</b>
   - [Azure Sentinel Honeynet Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
   - [Azure Sentinel Incident Response Lab](https://github.com/TherealvictorIT/Azure-Sentinel-Incident-Response-Lab/tree/main)
+  - [Securing Azure REsources in Accordance w/NIST SC.7](https://github.com/TherealvictorIT/Securing-Azure-Resources-in-accordance-with-NIST-SC-7)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TherealvictorIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
