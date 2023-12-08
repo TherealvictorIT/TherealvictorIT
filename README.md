@@ -1,6 +1,6 @@
-<h1>Hi, I'm Victor, an <a href="https://linkedin.com/in/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Victor, a <a href="https://linkedin.com/in/">Cybersecurity Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Honeynet Lab</b>
   - [Azure Sentinel Honeynet Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
@@ -12,6 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TherealvictorIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/TherealvictorIT/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/TherealvictorIT/Building-Intuition-for-DNS)
+ 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TherealvictorIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TherealvictorIT/osTicketPostConfiguration)
