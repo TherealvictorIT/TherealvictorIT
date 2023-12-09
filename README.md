@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Honeynet Lab</b>
-  - [Azure Sentinel Honeynet Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
+- <b>Azure Honeynet SOC Lab</b>
+  - [Azure Sentinel Honeynet SOC Lab (Live Traffic)](https://github.com/TherealvictorIT/Azure-Sentinel-Honey-net-Lab-)
   - [Azure Sentinel Incident Response Lab](https://github.com/TherealvictorIT/Azure-Sentinel-Incident-Response-Lab/tree/main)
-  - [Securing Azure REsources in Accordance w/NIST SC.7](https://github.com/TherealvictorIT/Securing-Azure-Resources-in-accordance-with-NIST-SC-7)
+  - [Securing Azure Resources in Accordance w/NIST SC.7](https://github.com/TherealvictorIT/Securing-Azure-Resources-in-accordance-with-NIST-SC-7)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TherealvictorIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
@@ -13,7 +13,7 @@
   - [Network File Shares and Permissions](https://github.com/TherealvictorIT/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/TherealvictorIT/Building-Intuition-for-DNS)
  
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Open source Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TherealvictorIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TherealvictorIT/osTicketPostConfiguration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TherealvictorIT/osTicket-LifeCycle-Examples)
