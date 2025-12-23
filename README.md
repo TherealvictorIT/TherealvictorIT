@@ -1,5 +1,8 @@
 <h1>Hi, I'm Victor, a <a href="https://linkedin.com/in/">Cybersecurity Professional</a>☺</h1>
 
+- <b>Red Hat Enterprise Linux</b>
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Honeynet SOC Lab</b>
