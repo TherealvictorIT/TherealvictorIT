@@ -1,6 +1,10 @@
-<h1>Hi, I'm Victor, a <a href="https://linkedin.com/in/">Cybersecurity Professional</a>☺</h1>
+<h1>Hi, I'm Victor, a <a href="https://linkedin.com/in/">Systems Administrator</a> 👾</h1>
 
-- <b>Red Hat Enterprise Linux</b>
+<h2>💾 Red Hat Enterprise Linux Projects:<h2>
+
+- <b>RHEL 9 Labs & Windows Server 2019<b>
+  - [Automated RHEL 9 Hardening Pipeline (DISA STIG)](https://github.com/TherealvictorIT/NIST-Hardened-Web-Server)
+  - [Hybrid-Enterprise-identity-Automation-Lab](https://github.com/TherealvictorIT/Hybrid-Enterprise-identity-Automation-Lab)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -23,9 +27,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-
 [<img align="left" alt="Victor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 
 [linkedin]: https://linkedin.com/in/
