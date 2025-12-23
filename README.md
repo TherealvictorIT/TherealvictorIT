@@ -4,7 +4,7 @@
 
 - **RHEL 9 & Windows Server 2019 Labs**
   - [Automated RHEL 9 Hardening Pipeline (DISA STIG)](https://github.com/TherealvictorIT/NIST-Hardened-Web-Server)
-  - [Hybrid-Enterprise-identity-Automation-Lab](https://github.com/TherealvictorIT/Hybrid-Enterprise-identity-Automation-Lab)
+  - [Integrating RHEL 9 & Windows 2019 with Ansible Automation](https://github.com/TherealvictorIT/Hybrid-Enterprise-identity-Automation-Lab)
 
 #### 👨‍💻 Cybersecurity Projects:
 
