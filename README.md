@@ -24,6 +24,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TherealvictorIT/osTicketPostConfiguration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TherealvictorIT/osTicket-LifeCycle-Examples)
 
+#### 🏡 HomeLab Projects:
+
+
 #### 🤳 Connect with me:
 
 <a href="https://linkedin.com/in/">
